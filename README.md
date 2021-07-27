@@ -1,5 +1,5 @@
 # PokeAPI
-<img src='https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png'>
+<center><img src='https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png'>
 > Sobre el proyecto:
 - PokeAPI es una aplicación creada a base de una simple ruta de la original <a href='#'>PokeAPI V2</a>. Mediante esta api se uso un simple endpoint para obtener todos los pokemons. En la aplicación podremos ver todos los pokemons listados y visualizados, donde se visualizaran las estadísticas de cada uno. Además se puede crear un nuevo pokemon detallando las estadísticas pensadas.
 
@@ -14,7 +14,7 @@
 > Tecnologías utilizadas:
 - HTML5 - Css3 - JavaScript - React - Redux - NodeJS - Sequelize - PostgreSQL
 
-> Acciones:
+> Utilidades:
 - Visualizar todos los pokemons en forma listada.
 - Buscar pokemon por su nombre especifico (Ya sea creado por nuestra parte o traido de la API)
 - Visualizar las estadísticas de un pokemon en concreto.
@@ -25,3 +25,4 @@
 - Paginado simple para la visualización correcta de los pokemons.
 
 
+</center>
